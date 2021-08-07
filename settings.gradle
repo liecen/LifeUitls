@@ -1,0 +1,3 @@
+include ':LifeUtils'
+include ':app'
+rootProject.name = "Utils"
